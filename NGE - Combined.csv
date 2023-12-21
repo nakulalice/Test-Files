@@ -1,0 +1,148 @@
+Task ID,Task Name,Recipe Name,Operation Name,Element Name,Crew Type,Start Date,End Date,Critical
+A1013245078,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/5/2024,4/8/2024,No
+A1037820005,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/15/2024,4/16/2024,Yes
+A1089359578,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/22/2024,5/23/2024,Yes
+A1098134776,"FACEXT [N1_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N1_CC_Technical
+  Rooms",SDO_FACEXT,5/22/2024,5/23/2024,No
+A1117983301,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/4/2024,4/4/2024,Yes
+A1130497168,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/25/2024,4/26/2024,No
+A1198981471,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/23/2024,5/24/2024,Yes
+A120258927,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,6/13/2024,6/14/2024,Yes
+A1215388200,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,6/11/2024,6/13/2024,Yes
+A1243052653,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,6/10/2024,6/11/2024,Yes
+A1248211973,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/29/2024,6/4/2024,Yes
+A1285812345,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,5/2/2024,5/6/2024,No
+A1297588754,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/4/2024,4/4/2024,No
+A1355025290,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/5/2024,4/8/2024,Yes
+A1485695101,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/17/2024,4/17/2024,Yes
+A1552447483,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/19/2024,4/25/2024,Yes
+A1583290311,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/26/2024,4/29/2024,Yes
+A1589058189,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/17/2024,4/19/2024,Yes
+A1668075886,"FACEXT [N1_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N1_CC_Technical
+  Rooms",SDO_FACEXT,5/23/2024,5/24/2024,No
+A1715004679,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/25/2024,4/25/2024,No
+A173622583,"FACEXT [N1_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N1_CC_Technical
+  Rooms",SDO_FACEXT,6/12/2024,6/12/2024,No
+A1753662375,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/16/2024,4/17/2024,Yes
+A1785057488,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/29/2024,5/29/2024,Yes
+A180532203,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/26/2024,4/29/2024,No
+A1832730854,"FACEXT [N1_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N1_CC_Technical
+  Rooms",SDO_FACEXT,5/24/2024,5/24/2024,No
+A1843023602,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,6/7/2024,6/10/2024,Yes
+A2111307459,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,5/6/2024,5/14/2024,No
+A2123806149,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/10/2024,4/10/2024,No
+A2128604084,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,5/24/2024,6/12/2024,No
+A2142428346,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/22/2024,5/22/2024,Yes
+A224131086,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,6/4/2024,6/7/2024,Yes
+A263999317,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/30/2024,5/2/2024,No
+A271843201,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/19/2024,4/19/2024,Yes
+A341325895,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/21/2024,5/22/2024,Yes
+A345260653,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/24/2024,4/25/2024,No
+A345930090,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/8/2024,4/8/2024,Yes
+A37617217,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/28/2024,5/29/2024,Yes
+A400938662,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,5/2/2024,5/21/2024,Yes
+A550461452,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/15/2024,4/24/2024,No
+A559717323,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/4/2024,4/5/2024,Yes
+A567168802,"FACEXT [N1_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N1_CC_Technical
+  Rooms",SDO_FACEXT,6/12/2024,6/17/2024,No
+A660698868,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,5/14/2024,5/22/2024,No
+A715097337,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/25/2024,4/26/2024,Yes
+A71846594,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/29/2024,5/2/2024,Yes
+A748917052,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/29/2024,4/30/2024,No
+A792430151,"GO [N0_Construction
+  works_Technical Rooms]",10_SDO_010_GO,GO,"N0_Construction
+  works_Technical Rooms",SDO_GO,4/8/2024,4/15/2024,Yes
+A867649433,"FACEXT [N0_CC_Technical
+  Rooms]",10_SDO_030_CC - FAC + MENEXT,FACEXT,"N0_CC_Technical
+  Rooms",SDO_FACEXT,4/8/2024,4/10/2024,No
+A942894415,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/28/2024,5/28/2024,Yes
+A948122043,"GO [N1_Construction
+  works_Technical Room]",10_SDO_010_GO,GO,"N1_Construction
+  works_Technical Room",SDO_GO,5/24/2024,5/28/2024,Yes
